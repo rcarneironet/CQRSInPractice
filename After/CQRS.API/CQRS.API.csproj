@@ -14,7 +14,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\CQRS.Logic\CQRS.Logic.csproj" />
+    <ProjectReference Include="..\CQRS.Logic\CQRS.Logic.csproj" />
   </ItemGroup>
 
 </Project>
