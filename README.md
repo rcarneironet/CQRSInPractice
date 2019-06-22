@@ -1,6 +1,6 @@
-# CQRS in Practice with .NET Core
+# CQRS in Practice with .NET Core / CQRS Fundamentals and Implementation
 
-This is a sample project to showcase CQRS in practice. I used this to present CQRS at San Diego .NET group, in San Diego - California.
+This is a sample project to showcase CQRS in practice. I used this to present CQRS at San Diego .NET group, in San Diego - California and updated for Visual Studio Summit 2019 in Sao Paulo
 
 # Disclaimer:
 
