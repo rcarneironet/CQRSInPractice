@@ -6,6 +6,7 @@
 
   <ItemGroup>
     <Folder Include="Core\Queries\" />
+    <Folder Include="Infrastructure\Repositores\Queries\" />
   </ItemGroup>
 
   <ItemGroup>
