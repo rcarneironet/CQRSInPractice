@@ -1,5 +1,6 @@
 ﻿using MediatR;
 
+
 namespace CQRSInPractice.Application.Departamentos.Secretaria.Alunos.Commands
 {
     public class RegistrarNovoAlunoCommand : IRequest<bool>
